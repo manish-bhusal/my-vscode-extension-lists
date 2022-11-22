@@ -1,0 +1,29 @@
+Alphabetical Sorter
+Auto Rename Tag
+Babel JavaScript
+bloc
+Code Time
+Django
+EJS language support
+Error Lens
+ES7+React/Redux/React-Native snippets
+Excel Viewer
+Fast Arrow
+isort
+JellyFish Theme
+Jupyter
+Jupyter Cell Tags
+Jupyter Keymap
+Jupyter Notebook Renderers
+Jupyter Slide Show
+Live Server
+Material Icon Theme
+Moonlight
+Prettier-Code formatter
+Pylance
+Python
+Spirited Away Color Theme
+Subtitles Editor
+Tailwind CSS IntelliSense
+Thunder Client
+Tokyo Night
